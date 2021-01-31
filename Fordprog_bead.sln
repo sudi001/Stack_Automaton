@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fordprog_bead", "Fordprog_bead\Fordprog_bead.csproj", "{91BB0129-25C2-4166-ADA4-93132A1C1282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BB0129-25C2-4166-ADA4-93132A1C1282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BB0129-25C2-4166-ADA4-93132A1C1282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BB0129-25C2-4166-ADA4-93132A1C1282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BB0129-25C2-4166-ADA4-93132A1C1282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B48FDAF-1824-450E-9F8D-ACD559C4B0C5}
+	EndGlobalSection
+EndGlobal
